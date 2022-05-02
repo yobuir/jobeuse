@@ -16,5 +16,4 @@
 </a>
 </td>
 </tr>
-</table>
-⭐️ From [Yobu](https://github.com/jobeuse)
+</table> 
