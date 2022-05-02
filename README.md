@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @jobeuse
+#  👋 Hi, I’m Iradukunda Yobu
+## Skill up - Never quit
+
+👀 I’m Software Developer  
 
 
-- 👀 I’m interested in Software Development  
-
-
-- 📫 Contact me via my email yobuir@gmail.com
+- 📫Email yobuir@gmail.com
 
 <!---
 jobeuse/jobeuse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
