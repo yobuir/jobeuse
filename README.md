@@ -3,7 +3,7 @@
 
 👀 I’m Software Developer  
 
-[![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yobuir@gmail.com)](mailto:houshuai0816@gmail.com)  [![Twitter Badge](https://img.shields.io/badge/-@Yobu-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/job10236901)](https://twitter.com/job10236901)  [![Linkedin Badge](https://img.shields.io/badge/-yobu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonathangin/)](https://www.linkedin.com/in/yobu/)
+[![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yobuir@gmail.com)](mailto:yobuir@gmail.com)  [![Twitter Badge](https://img.shields.io/badge/-@Yobu-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/job10236901)](https://twitter.com/job10236901)  [![Linkedin Badge](https://img.shields.io/badge/-yobu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonathangin/)](https://www.linkedin.com/in/yobu/)
 
 
 <table width="100%"  border="0" cellpadding="0" cellspacing="0"><tr>
@@ -15,5 +15,9 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jobeuse&layout=compact" />
 </a>
 </td>
+  <td>
+     <a href="https://app.daily.dev/IrYobu"><img src="https://api.daily.dev/devcards/3cf99f9aac584a29ba256e9f1abb0150.png?r=nea" width="400" alt="uak ak's Dev Card"/</a>
+
+  </td>
 </tr>
 </table> 
