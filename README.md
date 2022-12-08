@@ -14,10 +14,6 @@
 <a href="https://github.com/jobeuse">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jobeuse&layout=compact" />
 </a>
-</td>
-  <td>
-     <a href="https://app.daily.dev/IrYobu"><img src="https://api.daily.dev/devcards/3cf99f9aac584a29ba256e9f1abb0150.png?r=nea" width="400" alt="uak ak's Dev Card"/</a>
-
-  </td>
+</td> 
 </tr>
 </table> 
