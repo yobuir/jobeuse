@@ -1,7 +1,7 @@
 #  👋 Hi, I’m Iradukunda Yobu
 ## Skill up - Never quit
 
-👀 I’m Software Developer  
+👀 Software Developer  
 
 [![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yobuir@gmail.com)](mailto:yobuir@gmail.com)  [![Twitter Badge](https://img.shields.io/badge/-@Yobu-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/job10236901)](https://twitter.com/job10236901)  [![Linkedin Badge](https://img.shields.io/badge/-yobu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonathangin/)](https://www.linkedin.com/in/yobu/)
 
